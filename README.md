@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**rcarvalo/rcarvalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Data Science skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+. I'm currently working on NLP projects for aircraft maintenance. Using Scikit learn, Tensorflow, Keras, Neo4j 
+. In my free times, I'm working about several ML projects about Computer Vision, Forecasting Time Series and others.
+
+
+Software engineer skills:
+
+. I developped in my previous works web application, front and back works.
+
+Contact me :
+
+Tools set : 
+
